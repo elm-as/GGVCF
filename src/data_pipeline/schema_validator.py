@@ -65,3 +65,4 @@ def validate_profile_dataframe(df: pd.DataFrame, feature_cols: List[str]) -> boo
         raise ValueError(f"Profile DataFrame missing required features: {missing_cols}")
 
     return True
+

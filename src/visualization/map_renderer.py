@@ -69,3 +69,4 @@ def render_world_choropleth(
     )
 
     return fig
+

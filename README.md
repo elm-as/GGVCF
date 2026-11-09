@@ -99,3 +99,4 @@ pytest tests/test_analysis_pipeline.py -v
 - **UNODC**: Global Study on Homicide / United Nations Crime Trends Survey (UN-CTS).
 - **Small Arms Survey (2018)**: *Estimating Global Civilian-Held Firearms Numbers*.
 - **World Bank**: World Development Indicators (WDI API) for GDP per capita, Gini index, urbanization, and demographic shares.
+

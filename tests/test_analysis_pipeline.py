@@ -135,3 +135,4 @@ def test_generate_dashboard_html(tmp_path: Path, config: AnalysisConfig):
     assert "<!DOCTYPE html>" in content
     assert "Global Gun Violence" in content
     assert "Plotly" in content or "plotly" in content
+

@@ -56,3 +56,4 @@ class RiskFactorReport:
     feature_names: List[str]
     importances: List[float]
     spearman_correlations: Dict[str, float]
+

@@ -78,3 +78,4 @@ def format_regression_table(report: RegressionReport) -> pd.DataFrame:
         })
 
     return pd.DataFrame(records)
+

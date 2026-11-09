@@ -112,3 +112,4 @@ def estimate_cross_sectional_ols(
         n_entities=int(res.nobs),
         summary_text=str(res.summary()),
     )
+

@@ -103,3 +103,4 @@ def segment_country_archetypes(
         cluster_means=cluster_means,
         explained_variance_ratio=[float(v) for v in pca.explained_variance_ratio_],
     )
+

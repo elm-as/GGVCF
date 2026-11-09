@@ -7,3 +7,4 @@ __all__ = [
     "render_quadrant_scatter",
     "generate_dashboard_html",
 ]
+

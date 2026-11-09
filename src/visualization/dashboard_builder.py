@@ -279,3 +279,4 @@ def generate_dashboard_html(
 
     output_path.write_text(html_content, encoding="utf-8")
     return output_path
+

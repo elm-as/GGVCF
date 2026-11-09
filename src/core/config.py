@@ -79,3 +79,4 @@ class AnalysisConfig:
     paths: PathConfig = field(default_factory=PathConfig)
     econometrics: EconometricConfig = field(default_factory=EconometricConfig)
     clustering: ClusterConfig = field(default_factory=ClusterConfig)
+
