@@ -1,0 +1,231 @@
+location,iso3,firearms_per_100_people,civilian_firearms,registered_firearms,unregistered_firearms,population_2017,sas_region,sas_subregion,computation_method
+United States,USA,120.5,393347000,1073743,392273257,326474000,Americas,North America,survey and expert estimate
+Falkland Islands,FLK,62.1,2000,1705,295,3000,Americas,South America,expert estimate
+Yemen,YEM,52.8,14859000,,,28120000,Asia,Western Asia,expert estimate
+New Caledonia,NCL,42.5,115000,55000,60000,270000,Oceania,Melanesia,expert estimate
+Serbia,SRB,39.1,2719000,1186086,1532914,6946000,Europe,Southern Europe,expert estimate
+Montenegro,MNE,39.1,245000,103536,141464,626000,Europe,Southern Europe,analogous comparison
+Canada,CAN,34.7,12708000,2081442,10626558,36626000,Americas,North America,expert estimate
+Uruguay,URY,34.7,1198000,605313,592687,3457000,Americas,South America,expert estimate
+Cyprus,CYP,34.0,285000,154327,130673,839000,Asia,Western Asia,expert estimate
+Finland,FIN,32.4,1793000,1542396,250604,5541000,Europe,Northern Europe,survey and expert estimate
+Lebanon,LBN,31.9,1927000,,,6039000,Asia,Western Asia,expert estimate
+Iceland,ISL,31.7,106000,73000,33000,334000,Europe,Northern Europe,expert estimate
+Bosnia and Herzegovina,BIH,31.2,1185000,353000,832000,3793000,Europe,Southern Europe,expert estimate
+Austria,AUT,30.0,2577000,837000,1740000,8592000,Europe,Western Europe,survey and expert estimate
+North Macedonia,MKD,29.8,621000,169687,451313,2083000,Europe,Southern Europe,expert estimate
+Liechtenstein,LIE,28.8,11000,,,38000,Europe,Western Europe,analogous comparison
+Norway,NOR,28.8,1537000,1254638,282362,5331000,Europe,Northern Europe,expert estimate
+Malta,MLT,28.3,119000,96425,22575,421000,Europe,Southern Europe,expert estimate
+Switzerland,CHE,27.6,2332000,791719,1540281,8454000,Europe,Western Europe,expert estimate
+Czech Republic,CZE,27.5,3004047,1104047,1900000,10915839,Europe,Central Europe,expert estimate
+New Zealand,NZL,26.3,1212000,1200000,12000,4605000,Oceania,Australasia,expert estimate
+Kosovo,XKX,23.8,436000,43206,392794,1831000,Europe,Southern Europe,expert estimate
+Sweden,SWE,23.1,2296000,1955478,340522,9921000,Europe,Northern Europe,survey and expert estimate
+Greenland,GRL,22.3,13000,,,56000,Americas,North America,analogous comparison
+Pakistan,PAK,22.3,43917000,6000000,37917000,196744000,Asia,South Asia,expert estimate
+Portugal,PRT,21.3,2186000,1400000,786000,10265000,Europe,Southern Europe,survey and expert estimate
+France,FRA,19.6,12732000,4501235,8230765,64939000,Europe,Western Europe,survey and expert estimate
+French Guiana,GUF,19.6,55000,,,283000,Americas,South America,analogous comparison
+Germany,DEU,19.6,15822000,5830000,9992000,80636000,Europe,Western Europe,survey and expert estimate
+Iraq,IRQ,19.6,7588000,,,38654000,Asia,Western Asia,expert estimate
+Monaco,MCO,19.6,7000,,,38000,Europe,Western Europe,analogous comparison
+Réunion,REU,19.6,171000,,,873000,Africa,East Africa,analogous comparison
+Luxembourg,LUX,18.9,110000,86000,24000,584000,Europe,Western Europe,survey and expert estimate
+Bahamas,BHS,18.8,74000,17110,56890,397000,Americas,Caribbean,expert estimate
+Jordan,JOR,18.7,1473000,120000,1353000,7877000,Asia,Western Asia,expert estimate
+Venezuela,VEN,18.5,5895000,,,31926000,Americas,South America,expert estimate
+Greece,GRC,17.6,1920000,1010000,910000,10893000,Europe,Southern Europe,survey and expert estimate
+Northern Cyprus,CYP_NC,17.4,61000,49142,11858,349000,Europe,Southern Europe,expert estimate
+Kuwait,KWT,16.7,685000,39000,646000,4100000,Asia,Western Asia,analogous comparison
+Oman,OMN,16.7,792000,,,5312100,Asia,Western Asia,analogous comparison
+Paraguay,PRY,16.7,1140000,392000,748000,6812000,Americas,South America,expert estimate
+Qatar,QAT,16.7,390000,,,2338000,Asia,Western Asia,analogous comparison
+Saudi Arabia,SAU,16.7,5468000,,,32743000,Asia,Western Asia,analogous comparison
+United Arab Emirates,ARE,16.7,1569000,,,9398000,Asia,Western Asia,analogous comparison
+U.S. Virgin Islands,VIR,16.6,18000,,,107000,Americas,Caribbean,expert estimate
+Turkey,TUR,16.5,13249000,2500000,10749000,80418000,Europe,Southern Europe,expert estimate
+Suriname,SUR,15.9,88000,30000,58000,552000,Americas,South America,expert estimate
+Guyana,GUY,15.8,122000,4000,118000,774000,Americas,South America,expert estimate
+Slovenia,SVN,15.6,324000,127094,196906,2071000,Europe,Southern Europe,survey and expert estimate
+Namibia,NAM,15.4,396000,200010,195990,2569000,Africa,Southern Africa,expert estimate
+Thailand,THA,15.1,10342000,6221180,4120820,68298000,Asia,South-East Asia,expert estimate
+Australia,AUS,14.5,3573000,3158795,414205,24642000,Oceania,Australasia,expert estimate
+Italy,ITA,14.4,8609000,2000000,6609000,59798000,Europe,Southern Europe,survey and expert estimate
+San Marino,SMR,14.4,5000,,,32000,Europe,Southern Europe,analogous comparison
+Andorra,AND,14.1,10000,7599,2401,69000,Europe,Southern Europe,analogous comparison
+Honduras,HND,14.1,1171000,475000,696000,8305000,Americas,Central America,expert estimate
+Channel Islands,CHI,14.0,23000,14550,8450,165000,Europe,Western Europe,expert estimate
+Croatia,HRV,13.7,576000,390000,186000,3899000,Europe,Southern Europe,expert estimate
+Lithuania,LTU,13.6,385000,127984,257016,2831000,Europe,Northern Europe,expert estimate
+Libya,LBY,13.3,851000,,,6409000,Africa,North Africa,expert estimate
+Mexico,MEX,12.9,16809000,3118592,13690408,130223000,Americas,Central America,expert estimate
+Bahrain,BHR,12.8,181000,,,1419000,Asia,Western Asia,analogous comparison
+Belgium,BEL,12.7,1451000,426939,1024061,11444000,Europe,Western Europe,survey and expert estimate
+Afghanistan,AFG,12.5,4270000,,,34169000,Asia,South Asia,expert estimate
+Equatorial Guinea,GNQ,12.5,112000,,,894000,Africa,Central Africa,expert estimate
+Somalia (South Central),SOM,12.4,903000,,,7282000,Africa,East Africa,expert estimate
+Puntland,SOM_PNT,12.3,338250,,,2750000,Africa,East Africa,expert estimate
+Russia,RUS,12.3,17620000,6600000,11020000,143375000,Europe,Eastern Europe,expert estimate
+Chile,CHL,12.1,2220000,763182,1456818,18313000,Americas,South America,expert estimate
+Guatemala,GTM,12.1,2062000,520792,1541208,17005000,Americas,Central America,expert estimate
+Albania,ALB,12.0,350000,65747,284253,2911000,Europe,Southern Europe,expert estimate
+El Salvador,SLV,12.0,737000,344587,392413,6167000,Americas,Central America,expert estimate
+Somaliland,SOM_SML,11.9,456000,,,3823000,Africa,East Africa,expert estimate
+Guam,GUM,11.5,20000,,,174000,Oceania,Melanesia,analogous comparison
+Puerto Rico,PRI,11.5,422000,,,3679000,Americas,Caribbean,expert estimate
+Angola,AGO,11.2,2982000,,,26656000,Africa,Central Africa,expert estimate
+Northern Ireland,GBR_NIR,11.0,206000,153000,53000,1873000,Europe,Western Europe,survey and expert estimate
+Panama,PAN,10.8,436000,180000,256000,4051000,Americas,Central America,expert estimate
+Hungary,HUN,10.5,1023000,211300,811700,9788000,Europe,Eastern Europe,survey and expert estimate
+Latvia,LVA,10.5,205000,70000,135000,1945000,Europe,Northern Europe,expert estimate
+Colombia,COL,10.1,4971000,706210,4264790,49068000,Americas,South America,expert estimate
+Georgia,GEO,10.1,402000,159000,243000,3973000,Asia,Western Asia,expert estimate
+Samoa,WSM,10.1,20000,4000,16000,196000,Oceania,Polynesia,expert estimate
+Belize,BLZ,10.0,37000,10755,26245,375000,Americas,Central America,expert estimate
+Costa Rica,CRI,10.0,493000,235631,257369,4906000,Americas,Central America,expert estimate
+Denmark,DNK,9.9,567000,340000,227000,5712000,Europe,Northern Europe,survey and expert estimate
+Faroe Islands,FRO,9.9,5000,,,49000,Europe,Northern Europe,analogous comparison
+Ukraine,UKR,9.9,4396000,800000,3596000,44405000,Europe,Eastern Europe,expert estimate
+South Africa,ZAF,9.7,5351000,3000000,2351000,55436000,Africa,Southern Africa,expert estimate
+South Sudan,SSD,9.6,1255000,,,13096000,Africa,East Africa,expert estimate
+Cayman Islands,CYM,9.2,6000,1556,4444,62000,Americas,Caribbean,analogous comparison
+Jamaica,JAM,8.8,246000,45915,200085,2813000,Americas,Caribbean,expert estimate
+Guadeloupe,GLP,8.5,40000,5500,34500,472000,Americas,Caribbean,expert estimate
+Martinique,MTQ,8.5,34000,,,396000,Americas,Caribbean,analogous comparison
+Saint Martin,MAF,8.5,3000,,,32000,Americas,Caribbean,analogous comparison
+Bulgaria,BGR,8.4,590000,345733,244267,7045000,Europe,Eastern Europe,survey and expert estimate
+Brazil,BRA,8.3,17510000,8080295,9429705,211243000,Americas,South America,expert estimate
+Mauritius,MUS,8.3,106000,,,1281000,Africa,East Africa,expert estimate
+Syria,SYR,8.2,1547000,,,18907000,Asia,Western Asia,expert estimate
+Ghana,GHA,8.0,2280000,1236128,1043872,28657000,Africa,West Africa,expert estimate
+Tonga,TON,8.0,9000,,,108000,Oceania,Polynesia,expert estimate
+Mongolia,MNG,7.9,242000,46982,195018,3052000,Asia,East Asia,analogous comparison
+Spain,ESP,7.5,3464000,2683542,780458,46070000,Europe,Southern Europe,survey and expert estimate
+Argentina,ARG,7.4,3256000,1562332,1693668,44272000,Americas,South America,expert estimate
+Dominican Republic,DOM,7.4,795000,333426,461574,10767000,Americas,Caribbean,expert estimate
+Iran,IRN,7.3,5890000,,,80946000,Asia,South Asia,expert estimate
+Ireland,IRL,7.2,342000,200000,142000,4749000,Europe,Western Europe,expert estimate
+Israel,ISR,6.7,557000,290000,267000,8323000,Asia,Western Asia,expert estimate
+Sudan,SDN,6.6,2768000,6724,2761276,42166000,Africa,North Africa,expert estimate
+Gambia,GMB,6.5,137000,,,2120000,Africa,West Africa,expert estimate
+Slovakia,SVK,6.5,355000,280000,75000,5432000,Europe,Central Europe,expert estimate
+Dominica,DMA,6.2,5000,,,73000,Americas,Caribbean,analogous comparison
+Maldives,MDV,6.2,23000,,,376000,Asia,South Asia,expert estimate
+Armenia,ARM,6.1,186000,45822,140178,3032000,Asia,Western Asia,analogous comparison
+Belarus,BLR,6.1,581000,130000,451000,9459000,Europe,Eastern Europe,analogous comparison
+Cape Verde,CPV,5.7,31000,,,533000,Africa,West Africa,expert estimate
+Scotland,GBR_SCT,5.6,305000,187000,118000,5436000,Europe,Western Europe,survey and expert estimate
+Antigua and Barbuda,ATG,5.4,5000,1449,3551,94000,Americas,Caribbean,expert estimate
+Montserrat,MSR,5.4,300,,,5000,Americas,Caribbean,analogous comparison
+India,IND,5.3,71101000,9700000,61401000,1342513000,Asia,South Asia,expert estimate
+Nicaragua,NIC,5.2,323000,142260,180740,6218000,Americas,Central America,expert estimate
+Estonia,EST,5.0,65000,47000,18000,1306000,Europe,Northern Europe,survey and expert estimate
+Lesotho,LSO,4.8,105000,,,2185000,Africa,Southern Africa,analogous comparison
+Morocco,MAR,4.8,1690000,,,35241000,Africa,North Africa,expert estimate
+Eswatini,SWZ,4.8,64000,10000,54000,1320000,Africa,Southern Africa,analogous comparison
+Bermuda,BMU,4.6,3000,,,61000,Americas,North America,analogous comparison
+England & Wales,GBR_ENW,4.6,2731000,1870735,860265,58877000,Europe,Western Europe,survey and expert estimate
+Grenada,GRD,4.6,5000,,,108000,Americas,Caribbean,analogous comparison
+Cambodia,KHM,4.5,717000,,,16076000,Asia,South-East Asia,expert estimate
+Mozambique,MOZ,4.5,1337000,7000,1330000,29538000,Africa,East Africa,expert estimate
+Ivory Coast,CIV,4.4,1049000,2500,1046500,23816000,Africa,West Africa,analogous comparison
+Sint Maarten,SXM,4.2,2000,,,40000,Americas,Caribbean,analogous comparison
+Botswana,BWA,4.1,97000,32901,64099,2344000,Africa,Southern Africa,expert estimate
+Egypt,EGY,4.1,3931000,250000,3681000,95215000,Africa,North Africa,expert estimate
+Gibraltar,GIB,4.1,1000,,,32000,Europe,Southern Europe,survey and expert estimate
+Seychelles,SYC,4.1,4000,,,98000,Africa,East Africa,expert estimate
+Vanuatu,VUT,3.9,11000,4700,6300,276000,Oceania,Melanesia,expert estimate
+Azerbaijan,AZE,3.6,362000,,,9974000,Asia,Western Asia,expert estimate
+China,CHN,3.6,49735000,680000,49055000,1388233000,Asia,East Asia,expert estimate
+Macau,MAC,3.6,22000,,,606000,Asia,East Asia,analogous comparison
+Hong Kong,HKG,3.6,265000,,,7402000,Asia,East Asia,analogous comparison
+Philippines,PHL,3.6,3776000,1739000,2037000,103797000,Asia,South-East Asia,expert estimate
+Barbados,BRB,3.5,10000,3000,7000,286000,Americas,Caribbean,analogous comparison
+Gabon,GAB,3.4,61000,,,1801000,Africa,Central Africa,expert estimate
+Saint Kitts and Nevis,KNA,3.4,2000,,,57000,Americas,Caribbean,analogous comparison
+Saint Lucia,LCA,3.4,6000,,,188000,Americas,Caribbean,analogous comparison
+Saint Vincent and the Grenadines,VCT,3.4,4000,2865,1135,110000,Americas,Caribbean,analogous comparison
+São Tomé and Príncipe,STP,3.4,7000,,,198000,Africa,Central Africa,analogous comparison
+Turks and Caicos Islands,TCA,3.3,1000,300,700,35000,Americas,Caribbean,expert estimate
+Nigeria,NGA,3.2,6154000,,,191836000,Africa,West Africa,expert estimate
+Trinidad and Tobago,TTO,3.2,43000,10550,32450,1369000,Americas,Caribbean,expert estimate
+Djibouti,DJI,3.1,28000,,,911000,Africa,East Africa,expert estimate
+Laos,LAO,3.0,215000,,,7038000,Asia,South-East Asia,analogous comparison
+Moldova,MDA,3.0,121000,54663,66337,4055000,Europe,Eastern Europe,expert estimate
+Kazakhstan,KAZ,2.8,504000,284000,220000,18064000,Asia,Central Asia,expert estimate
+Kyrgyzstan,KGZ,2.8,171000,29237,141763,6125000,Asia,Central Asia,analogous comparison
+Mauritania,MRT,2.8,120000,,,4266000,Africa,West Africa,expert estimate
+Zimbabwe,ZWE,2.8,455000,190685,264315,16338000,Africa,East Africa,expert estimate
+Aruba,ABW,2.6,3000,,,105000,Americas,Caribbean,analogous comparison
+Curaçao,CUW,2.6,4000,,,160000,Americas,Caribbean,analogous comparison
+Haiti,HTI,2.6,291000,20379,270621,10983000,Americas,Caribbean,expert estimate
+Netherlands,NLD,2.6,442000,205347,236653,17033000,Europe,Western Europe,survey and expert estimate
+Northern Mariana Islands,MNP,2.6,1000,,,56000,Oceania,Micronesia,expert estimate
+Romania,ROU,2.6,506000,210000,296000,19238000,Europe,Eastern Europe,expert estimate
+French Polynesia,PYF,2.5,7000,,,289000,Oceania,Polynesia,expert estimate
+Poland,POL,2.5,968000,380000,588000,38564000,Europe,Central Europe,survey and expert estimate
+Congo,COG,2.4,119000,,,4866000,Africa,Central Africa,expert estimate
+Ecuador,ECU,2.4,402000,167102,234898,16626000,Americas,South America,expert estimate
+Sri Lanka,LKA,2.4,494000,35000,459000,20905000,Asia,South Asia,expert estimate
+Algeria,DZA,2.1,877000,200000,677000,41064000,Africa,North Africa,expert estimate
+Cameroon,CMR,2.1,510000,,,24514000,Africa,Central Africa,expert estimate
+Cuba,CUB,2.1,234000,58150,175850,11390000,Americas,Caribbean,expert estimate
+Liberia,LBR,2.1,97000,,,4730000,Africa,West Africa,expert estimate
+Bolivia,BOL,2.0,218000,10982,207018,11053000,Americas,South America,analogous comparison
+Burundi,BDI,2.0,238000,,,11936000,Africa,East Africa,expert estimate
+Peru,PER,2.0,633000,365845,267155,32166000,Americas,South America,expert estimate
+Senegal,SEN,2.0,323000,7053,315947,16054000,Africa,West Africa,expert estimate
+Central African Republic,CAF,1.8,94000,,,5099000,Africa,Central Africa,expert estimate
+Myanmar,MMR,1.6,877000,,,54836000,Asia,South-East Asia,analogous comparison
+Vietnam,VNM,1.6,1562000,,,95415000,Asia,South-East Asia,expert estimate
+Comoros,COM,1.5,12000,,,826000,Africa,East Africa,expert estimate
+Guinea-Bissau,GNB,1.5,29000,,,1933000,Africa,West Africa,expert estimate
+Kenya,KEN,1.5,750000,8136,741864,48467000,Africa,East Africa,expert estimate
+Nepal,NPL,1.5,444000,34315,409685,29187000,Asia,South Asia,expert estimate
+Brunei,BRN,1.4,6000,,,434000,Asia,South-East Asia,expert estimate
+DR Congo,COD,1.2,946000,216,945784,82243000,Africa,Central Africa,expert estimate
+Tuvalu,TUV,1.2,100,50,50,10000,Oceania,Polynesia,expert estimate
+Mali,MLI,1.1,206000,,,18690000,Africa,West Africa,expert estimate
+Palestine,PSE,1.1,56000,,,4952000,Asia,Western Asia,expert estimate
+Tunisia,TUN,1.1,123000,3408,119592,11495000,Africa,North Africa,analogous comparison
+Chad,TCD,1.0,151000,,,14965000,Africa,Central Africa,expert estimate
+Guinea,GIN,1.0,130000,,,13291000,Africa,West Africa,expert estimate
+Papua New Guinea,PNG,1.0,79000,27043,51957,7934000,Oceania,Melanesia,expert estimate
+Burkina Faso,BFA,0.9,175000,,,19173000,Africa,West Africa,expert estimate
+Zambia,ZMB,0.9,158000,86642,71358,17238000,Africa,East Africa,expert estimate
+Bhutan,BTN,0.8,6000,4309,1691,793000,Asia,South Asia,analogous comparison
+Kiribati,KIR,0.8,900,,,116000,Oceania,Melanesia,expert estimate
+Tanzania,TZA,0.8,427000,115850,311150,56878000,Africa,East Africa,expert estimate
+Togo,TGO,0.8,58000,10000,48000,7692000,Africa,West Africa,expert estimate
+Uganda,UGA,0.8,331000,21156,309844,41653000,Africa,East Africa,expert estimate
+British Virgin Islands,VGB,0.8,300,48,252,31000,Americas,Caribbean,expert estimate
+American Samoa,ASM,0.7,400,250,150,56000,Oceania,Polynesia,expert estimate
+Madagascar,MDG,0.7,168000,,,25613000,Africa,East Africa,expert estimate
+Malaysia,MYS,0.7,217000,142038,74962,31164000,Asia,South-East Asia,expert estimate
+Federated States of Micronesia,FSM,0.7,700,,,106000,Oceania,Micronesia,expert estimate
+Fiji,FJI,0.5,5000,1538,3462,903000,Oceania,Melanesia,expert estimate
+Marshall Islands,MHL,0.5,300,,,53000,Oceania,Melanesia,expert estimate
+Niger,NER,0.5,117000,2000,115000,21564000,Africa,West Africa,expert estimate
+Palau,PLW,0.5,100,,,22000,Oceania,Melanesia,expert estimate
+Rwanda,RWA,0.5,66000,,,12160000,Africa,East Africa,expert estimate
+Sierra Leone,SLE,0.5,35000,,,6733000,Africa,West Africa,expert estimate
+Bangladesh,BGD,0.4,659000,185000,474000,164828000,Asia,South Asia,expert estimate
+Eritrea,ERI,0.4,23000,,,5482000,Africa,East Africa,expert estimate
+Ethiopia,ETH,0.4,377000,,,104345000,Africa,East Africa,expert estimate
+Tajikistan,TJK,0.4,37000,9863,27137,8858000,Asia,Central Asia,expert estimate
+Turkmenistan,TKM,0.4,23000,,,5503000,Asia,Central Asia,analogous comparison
+Uzbekistan,UZB,0.4,127000,,,30691000,Asia,Central Asia,analogous comparison
+Benin,BEN,0.3,33000,,,11459000,Africa,West Africa,expert estimate
+Japan,JPN,0.3,377000,175221,201779,126045000,Asia,East Asia,expert estimate
+North Korea,PRK,0.3,76000,,,25405000,Asia,East Asia,analogous comparison
+Malawi,MWI,0.3,47000,12500,34500,18299000,Africa,East Africa,expert estimate
+Singapore,SGP,0.3,20000,795,19205,5785000,Asia,South-East Asia,analogous comparison
+Timor-Leste,TLS,0.3,3000,,,1237000,Asia,South-East Asia,expert estimate
+South Korea,KOR,0.2,79000,39530,39470,50705000,Asia,East Asia,expert estimate
+Solomon Islands,SLB,0.2,1000,,,606000,Oceania,Melanesia,expert estimate
+Taiwan,TWN,0.04,10000,5000,5000,23405000,Asia,East Asia,expert estimate
+Indonesia,IDN,0.03,82000,41102,40898,263510000,Asia,South-East Asia,expert estimate
+Nauru,NRU,0.0,0,,,10000,Oceania,Melanesia,expert estimate
+Christmas Island,CXR,0.0,0,,,2000,Asia,South-East Asia,expert estimate
+Holy See,VAT,0.0,0,,,1000,Europe,Southern Europe,expert estimate

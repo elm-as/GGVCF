@@ -1,0 +1,51 @@
+Global Gun Violence & Civilian Firearms (2000–2023)
+Three tidy tables that answer one question from many angles: how many guns are out there, how many people are killed with them, and what else (wealth, inequality, youth, cities) goes with it?
+
+File	Rows	Grain
+firearm_homicides_country_year.csv	3,120	country × year, 2000–2024
+civilian_firearms_2017.csv	230	country / territory (Small Arms Survey 2017)
+country_gun_profile.csv	217	one row per country — ready for a scatter plot or a map
+Firearm homicide figures are available for 99 countries; total homicide rates for many more.
+
+Key columns
+homicide_rate, firearm_homicide_rate (per 100k), firearm_homicides (count) — UNODC.
+firearm_share_of_homicides_pct — what % of murders are committed with a gun.
+firearms_per_100_people — civilian gun ownership (Small Arms Survey 2017).
+Context from the World Bank: population, GDP per capita, Gini, unemployment, urbanisation, share of men aged 15–64, military spending, secondary-school enrolment.
+Highest civilian gun ownership (2017)
+Location	Guns per 100 people	Civilian guns
+United States	120.5	393,347,000
+Falkland Islands	62.1	2,000
+Yemen	52.8	14,859,000
+New Caledonia	42.5	115,000
+Serbia	39.1	2,719,000
+Montenegro	39.1	245,000
+Canada	34.7	12,708,000
+Uruguay	34.7	1,198,000
+Highest firearm homicide rates (mean of 2013–2022)
+Country	Firearm homicides per 100k	Share of all homicides
+El Salvador	38.4	73%
+Jamaica	38.3	80%
+Honduras	37.0	77%
+St. Kitts and Nevis	28.9	72%
+Trinidad and Tobago	24.6	79%
+Bahamas, The	24.3	85%
+Belize	22.2	67%
+St. Lucia	21.3	70%
+Fun fact to test in your notebook: across 95 countries the Spearman correlation between guns per 100 people and the firearm homicide rate is 0.00 — practically no relationship. Serbia, Switzerland and Finland hold 28–39 guns per 100 people yet have very few gun murders, while Jamaica and El Salvador hold 9–12 and have some of the highest rates on Earth. Inequality? Organised crime? Policing? Find out.
+
+Ideas for notebooks
+World map of guns per 100 vs firearm homicide rate; outliers (USA, Switzerland, Jamaica, Yemen).
+Panel regression: firearm homicide rate ~ GDP per capita + Gini + urbanisation + region.
+Trends: which countries cut gun homicides the most since 2005?
+Cluster countries by their homicide profile.
+Sources & licences
+UNODC Global Study on Homicide / UN-CTS, via Our World in Data grapher charts homicides-by-firearm, homicide-rates-from-firearms, homicide-rate-unodc (CC BY 4.0).
+Small Arms Survey (2018), Estimating Global Civilian-Held Firearms Numbers, via the Wikipedia table "Estimated number of civilian guns per capita by country" (text CC BY-SA 4.0).
+World Bank World Development Indicators API (CC BY 4.0). Because one source is CC BY-SA, this dataset is released under CC BY-SA 4.0. Please credit the sources.
+Notes
+Homicide = intentional homicide (UNODC ICCS definition); suicides and accidents are not included.
+Missing values mean the source has no figure for that year — they are not zero.
+Weapon (mechanism) reporting is incomplete in some countries: e.g. Brazil's UNODC firearm counts cover only part of its homicides, so its firearm_share_of_homicides_pct is understated. Compare with homicide_rate.
+Gun ownership numbers are estimates with wide uncertainty; check computation_method.
+Built on 07 Nov 2026 with tools/build_guns.py.
